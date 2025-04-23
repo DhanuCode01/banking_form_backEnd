@@ -28,7 +28,7 @@ const userSchema=new  mongoose.Schema({
         type:String,
         required:true
     },
-    phone:{    //Phone Number Data Structure
+    phone:{    //Phone Number Data Structure //
         type:String,
         required:true
     }
